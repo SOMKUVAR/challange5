@@ -14,7 +14,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/SOMKUVAR/challange5.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://somkuvar.github.io/challange5/)
 
 ## My process
 
