@@ -153,9 +153,10 @@ footer{
          /* padding-bottom: 4rem; */
     }
     h1{
-       font-weight: 600;
+       font-weight: 700;
        font-size: 3rem;
        text-align: left;
+       line-height: 3.5rem;
     }
     main{
         flex-direction: row;
