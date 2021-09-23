@@ -13,7 +13,7 @@ Users should be able to:
   - The email address is not formatted correctly (i.e. a correct email address should have this structure: `name@host.tld`). The message for this error should say *"Looks like this is not an email"*
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://github.com/SOMKUVAR/challange5.git)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
