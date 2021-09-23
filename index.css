@@ -56,7 +56,8 @@ main{
     align-items: center;
     justify-content: space-between;
     flex-direction: column;
-    padding-top: 5rem;
+    padding-top: 4.5rem;
+    margin-bottom: 1rem; 
     margin-bottom: 3rem; 
 }
 .first-div{
@@ -94,7 +95,7 @@ input{
     padding-left: 1rem;
 }
 input:hover , input:focus{
-    border: 2px solid black;
+    border: 1px solid black;
     outline: none;
 }
 button{
@@ -171,6 +172,9 @@ footer{
     }
     .first-div{
         padding: 1rem 4rem;
+    }
+    .sec-div{
+        padding: 3rem;
     }
 }
 @media(max-width:315px)
